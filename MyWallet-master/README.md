@@ -12,18 +12,7 @@ This is restful service for the payment wallet application with all neccessary A
 #
 ### Team Members 
 
- - Alok Shekhawat  |  [Github](https://github.com/aloks31)   <!-- Added Beneficiary Service Layer implemtation. Establish relationship between Beneficiary entity and Customer entity. -->
-
- - Dileep Kumar Yadav  |  [Github](https://github.com/dileep8920)  <!-- :  Responsible for creating the Wallet Module. Added Wallet Service Layer Implemetation. -->
-
- - Graghavendramurty |  [Github](https://github.com/GandhamRaghavendra)  <!-- :  Worked Transaction Service Layer Implementation and perform transaction related operations. -->
-
- - Musavvir Shaikh  |  [Github](https://github.com/shaikh9560)  <!-- :  Created Bank Acccount Service Layer and implementation of account related services. -->
-</br>
-
- - Abhishek D. Patil |  [Github](https://github.com/abhishek-0713) -   Team Lead <!-- Resplonsible for building overall working flow of application. Implemented User Service Layer, validate login service layer. Bug Fixes, Handling Console Errors, All Exceptions Handling. -->
-
-                     
+ -Puneet 
 
 </br>
 
